@@ -34,7 +34,7 @@ int LCA(int u, int v) {
             v = P[i][v];
         }
     return P[0][u];
-}
+}//
 
 void make_tree(int node, int st, int en) {
     if(st == en) {
