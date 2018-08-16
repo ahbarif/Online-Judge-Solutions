@@ -116,8 +116,6 @@ int main() {
             for(int j=0; j<n; j++)
                 if(P[i-1][j] != -1)
                     P[i][j] = P[i-1][P[i-1][j]];
-
-
         char s[10];
 
         while(true){
