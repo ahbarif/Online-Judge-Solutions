@@ -36,7 +36,6 @@ void preprocess_lca(int root, int N){
     }
 }
 
-
 int lca(int u , int v)
 {
 	if(L[u] < L[v])
@@ -187,7 +186,6 @@ int main()
             printf("%d\n", ret);
         }
 	}
-
 
     return 0;
 }
