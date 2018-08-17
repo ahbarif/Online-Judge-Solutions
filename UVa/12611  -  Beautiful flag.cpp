@@ -28,9 +28,6 @@ void solve(int cs)
 
 int main()
 {
-
-  //  freopen("in.txt", "r", stdin);
-
     int t;
 
     scanf("%d", &t);
