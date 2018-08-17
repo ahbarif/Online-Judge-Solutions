@@ -2,7 +2,6 @@
 using namespace std;
 
 const int maxn = 30015;
-
 struct data{
     int st, en, profit;
     data(){}
