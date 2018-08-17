@@ -3,9 +3,6 @@ using namespace std;
 
 int main()
 {
-
-  //  freopen("in.txt", "r", stdin);
-
     int t;
 
     scanf("%d", &t);
