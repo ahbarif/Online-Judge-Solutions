@@ -2,7 +2,6 @@
 using namespace std;
 
 typedef long long ll;
-
 const int maxn = 1000010;
 
 ll mod = 1000000007;
