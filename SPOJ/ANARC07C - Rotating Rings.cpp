@@ -4,7 +4,7 @@ using namespace std;
 int grid[1005][1005];
 int a[1005][1005];
 
-vector<int> vec; // after extract
+vector<int> vec; 
 vector<int> tmp;
 
 int ru, rd, cl, cr, dim;
