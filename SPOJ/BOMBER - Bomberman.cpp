@@ -33,7 +33,6 @@ int main()
         cout<< c[dp[a][b]]<<endl;
     }
 
-
     return 0;
 }
 
