@@ -29,7 +29,8 @@ void solve(ll n, ll p)
     }
      cout<<ans+p<<endl;
 }
-   int main()
+
+int main()
 {
     int i, t;
      cin>>t;
